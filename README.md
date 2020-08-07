@@ -5,7 +5,7 @@ This post teaches you the functionality of numpy's "np.dot()" function and what 
 In starting my journey to understand the complexity of deep neural networks I came across a function that must be used in order to multiply the the inputs and weights, ```np.dot()```. The purpose of ```np.dot()``` is to multiply two matrices (plural for an array that is a dimension of two or more).
 
 ```python
-import numpy as np
+#import numpy as np
 
 x = [[1, 2], 
      [3, 4]]
